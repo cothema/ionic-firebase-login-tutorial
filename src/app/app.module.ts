@@ -11,7 +11,12 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AngularFireModule } from '@angular/fire';
 import { environment } from '../environments/environment';
-import { UniFirebaseLoginModule, GoogleAuthModule, FacebookAuthModule } from 'ionic-universal-firebase-login';
+import {
+  UniFirebaseLoginModule,
+  GoogleAuthModule,
+  FacebookAuthModule,
+  AnonymousAuthModule
+} from "ionic-universal-firebase-login";
 
 @NgModule({
   declarations: [AppComponent],
@@ -24,6 +29,7 @@ import { UniFirebaseLoginModule, GoogleAuthModule, FacebookAuthModule } from 'io
     UniFirebaseLoginModule.forRoot(),
     GoogleAuthModule, // if you want to use Google as a provider
     FacebookAuthModule, // if you want to use Facebook as a provider
+    AnonymousAuthModule, // if you want to use anonymous sign in method
   ],
   providers: [
     StatusBar,
