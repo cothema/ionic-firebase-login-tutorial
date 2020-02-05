@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  The world is your hedgehog. <br/>
+
+  {{auth.user.displayName}} <br />
+  {{auth.user.email}} <br />
+
+  <ion-button (click)="auth.signOut()">Sign me out</ion-button> <br />
+  <ion-button (click)="getTokenClick()">Get token</ion-button>
+</ion-content>

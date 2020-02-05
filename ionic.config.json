@@ -1,0 +1,7 @@
+{
+  "name": "IonicFirebaseLoginTutorial",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

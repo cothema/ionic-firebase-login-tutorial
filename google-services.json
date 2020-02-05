@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915343727430",
+    "firebase_url": "https://ionicfirebaselogintutorial.firebaseio.com",
+    "project_id": "ionicfirebaselogintutorial",
+    "storage_bucket": "ionicfirebaselogintutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915343727430:android:4f9dd1a465ab269e412347",
+        "android_client_info": {
+          "package_name": "com.testtest.ionicfirebaselogintutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915343727430-026bfb3s0ts1lbgt8f9d6jeub4lp05ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testtest.ionicfirebaselogintutorial",
+            "certificate_hash": "6ec5ef5948d2fe7e837ef7d8b065adcc33e53d9d"
+          }
+        },
+        {
+          "client_id": "915343727430-p0ahh1pim5k3ede5i9p0t94uvuuhi8jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAeoH-i9VzQBL2D6lcDrDI0EstTOqPxSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915343727430-p0ahh1pim5k3ede5i9p0t94uvuuhi8jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
