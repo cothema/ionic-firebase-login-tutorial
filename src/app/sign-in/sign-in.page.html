@@ -1,10 +1,12 @@
 <ion-header>
-  <ion-toolbar>
-    <ion-title>sign-in</ion-title>
-  </ion-toolbar>
+    <ion-toolbar>
+        <ion-title>Sign In</ion-title>
+    </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <ion-button (click)="auth.signInViaGoogle()">Sign in via Google</ion-button>
-  <ion-button (click)="auth.signInViaFacebook()">Sign in via Facebook</ion-button>
+<ion-content class="ion-text-center">
+    <ion-button (click)="auth.signInViaGoogle()">Sign in via Google</ion-button>
+    <br/>
+    <ion-button (click)="auth.signInViaFacebook()">Sign in via Facebook</ion-button>
+    <br/>
 </ion-content>
