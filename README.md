@@ -7,3 +7,7 @@ Ionic universal authentication tutorial using package:
 
 - [Full most recent version (branch master)](https://github.com/cothema/ionic-firebase-login-tutorial)
 - [Video tutorial version (branch video-tutorial)](https://github.com/cothema/ionic-firebase-login-tutorial/tree/video-tutorial)
+
+## Video tutorial
+
+[![Youtube video Ionic Firebase Login Tutorial](http://img.youtube.com/vi/7PtAGS2P9UQ/0.jpg)](http://www.youtube.com/watch?v=7PtAGS2P9UQ "Ionic Firebase Login Tutorial")
